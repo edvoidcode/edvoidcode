@@ -1,10 +1,12 @@
-### Hey there 👋
+_Hey there 👋_
 
 
 My name is Edson, and soon I will be back with more information :)
-Loading... 
 
-<!--
+- At the moment, working as a Devops Enginneer at [out.cloud](https://out.cloud/)
+<!-- - Working with Cloud Computing
+    - automating the creation of cloud enviroments
+
 **edvoidcode/edvoidcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
