@@ -1,12 +1,10 @@
-_Hey there 👋_
+<!-- **edvoidcode/edvoidcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/edvoidcode/282315abc7ff0454f31ef95364c6a9c2/raw/faf995a5885419aaf219bf185978f407f49a2b8b/profile-card.svg"/>
+<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Edson Silva</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edvoidcode&color=yellow" alt="Profile views" /> </p>
 
-My name is Edson, and soon I will be back with more information :)
-
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 DevOps Enginner  
 
 - 🔭 I’m currently working on [out.cloud](https://out.cloud/)
 
@@ -16,24 +14,5 @@ My name is Edson, and soon I will be back with more information :)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
-<!-- - Working with Cloud Computing
-    - automating the creation of cloud enviroments
+<!-- - ⚡ Fun fact **Oneye 😜** -->
 
-**edvoidcode/edvoidcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
