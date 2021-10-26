@@ -23,4 +23,4 @@ src="https://raw.githubusercontent.com/gist/edvoidcode/3bcc619c7a2acae6adf6ac9aa
 ![Packer](https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer)
 
 
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvoidcode&layout=compact&theme=vision-friendly-dark" alt="edvoidcode's stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvoidcode&layout=compact&theme=vision-friendly-dark" alt="edvoidcode's stats"/>
