@@ -13,8 +13,6 @@ src="https://raw.githubusercontent.com/gist/edvoidcode/3bcc619c7a2acae6adf6ac9aa
 
 - 🔭 I’m currently working on [out.cloud](https://out.cloud/)
 
-- 💬 I'm currently working with the following technologies: **Terraform, Ansible, Docker, Packer, AWS, Python**
-
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -23,3 +21,6 @@ src="https://raw.githubusercontent.com/gist/edvoidcode/3bcc619c7a2acae6adf6ac9aa
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible) &nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform) &nbsp;
 ![Packer](https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer)
+
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvoidcode&layout=compact&theme=vision-friendly-dark" alt="edvoidcode's stats"/>
